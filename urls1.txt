@@ -6,11 +6,13 @@
 *.instagram.com
 *.linkedin.com
 *.npr.org
+*.newsweek.com
 *.nytimes.com
 *.pinterest.com
 *.reuters.com
 *.reddit.com
 *.substack.com
+*.thehill.com
 *.tiktok.com
 *.tumblr.com
 *.twitter.com
