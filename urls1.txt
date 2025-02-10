@@ -5,6 +5,8 @@
 *.facebook.com
 *.instagram.com
 *.linkedin.com
+*news.google.com
+*news.ycombinator.com
 *.npr.org
 *.newsweek.com
 *.nytimes.com
@@ -12,6 +14,7 @@
 *.reuters.com
 *.reddit.com
 *.substack.com
+*.theguardian.com
 *.thehill.com
 *.tiktok.com
 *.tumblr.com
