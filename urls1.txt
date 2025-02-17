@@ -1,3 +1,5 @@
+abcnews.go.com
+apnews.com
 *.apnews.com
 *.bbc.com
 *.bbc.co.uk
@@ -10,6 +12,8 @@
 *.npr.org
 *.newsweek.com
 *.nytimes.com
+*.politico.com
+*.politico.eu
 *.pinterest.com
 *.reuters.com
 *.reddit.com
