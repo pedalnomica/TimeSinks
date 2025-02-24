@@ -4,6 +4,7 @@ apnews.com
 *.bbc.com
 *.bbc.co.uk
 *.cnn.com
+*.economist.com
 *.facebook.com
 *.instagram.com
 *.lesswrong.com
