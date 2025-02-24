@@ -6,6 +6,7 @@ apnews.com
 *.cnn.com
 *.facebook.com
 *.instagram.com
+*.lesswrong.com
 *.linkedin.com
 *news.google.com
 *news.ycombinator.com
